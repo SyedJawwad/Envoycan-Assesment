@@ -7,7 +7,7 @@
 }
 .login{
     background-color: #a9f12d !important;
-    width: 200px;
+    width: 180px;
     color: white !important;
     font-weight: 500 !important;
 }
@@ -30,7 +30,8 @@
     color: #a9f12d !important;
 }
 .form-switch .form-check-input {
-    height: 20px;
+    height: 17px;
+    width: 34px !important;
 }
 .form-switch .form-check-input:focus {
     border-color: rgba(0, 0, 0, 0.25);
@@ -46,4 +47,26 @@
     background-color: #a9f12d ;
     border-color: #a9f12d ;
     border: none;
+}
+.arrow{
+    margin-left: 12px;
+}
+
+.fa-solid.fa-chevron-right.fa-sm.dropdown{
+    float: right;
+    margin-left: 0;
+    margin-top: 13px;
+}
+.sidebar{
+    color: white;
+    font-size: small;
+    float: right;
+    margin-left: 0;
+    margin-top: 13px;
+}
+.barhead{
+    color: white;
+    font-size: small;
+    margin-left: 44px;
+    margin-top: 13px;
 }
