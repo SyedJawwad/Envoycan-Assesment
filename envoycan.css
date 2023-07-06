@@ -1,0 +1,49 @@
+.borders{
+    border-bottom: 4px solid rgba(5, 5, 5, 0.185) !important;
+}
+.main_logo_img{
+    width: 12rem;
+    height: 2.9rem;
+}
+.login{
+    background-color: #a9f12d !important;
+    width: 200px;
+    color: white !important;
+    font-weight: 500 !important;
+}
+.nav-item{
+    font-size: 14px;
+    font-weight: bold;
+}
+.profile{
+    border-radius: 50%;
+    height: 100px;
+}
+.card{
+    width: 210px;
+}
+.background{
+    background-color: #363636;
+}
+.form-check-input{
+    margin-left: 2px !important;
+    color: #a9f12d !important;
+}
+.form-switch .form-check-input {
+    height: 20px;
+}
+.form-switch .form-check-input:focus {
+    border-color: rgba(0, 0, 0, 0.25);
+    outline: 0;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+}
+.form-switch .form-check-input:checked {
+    background-color: #a9f12d ;
+    border-color: #a9f12d ;
+    border: none;
+}
+.form-switch .form-check-input:focus {
+    background-color: #a9f12d ;
+    border-color: #a9f12d ;
+    border: none;
+}
